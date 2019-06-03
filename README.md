@@ -78,3 +78,4 @@ def add(num1, num2)
 * [x] Task 2
 * [ ] Task 3
 
+![Image Upload Practice](https://github.com/visuali/test/blob/master/images/KakaoTalk_20181224_224652863.gif)
